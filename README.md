@@ -5,7 +5,9 @@ More info coming soon. Work in progress.
 ## Results: 
 
 Isolation Forest 644 errors
+
 0.997738819622
+
              precision    recall  f1-score   support
 
           0       1.00      1.00      1.00    284315
@@ -14,7 +16,9 @@ Isolation Forest 644 errors
 avg / total       1.00      1.00      1.00    284807
 
 Local Outlier Factor 924 errors
+
 0.996755697718
+
              precision    recall  f1-score   support
 
           0       1.00      1.00      1.00    284315
